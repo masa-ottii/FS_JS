@@ -1,8 +1,11 @@
 .mainbox {
-  background-color:	#888888;
+  background-color:	#d2b48c;
   border: 1px solid lightgray;
 }
 .mdl-layout-title {
   color: rgba(255, 255, 255, 1);
 }
 .mdl-list__item-icon.material-icons { color: rgba(255, 255, 255, 1); }
+main {
+  background-image: url('images/texture-175391_1920.jpg');
+}
